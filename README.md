@@ -1,2 +1,0 @@
-# SMSAssistant
-Temp description
